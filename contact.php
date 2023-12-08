@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
+    
 </head>
 
 <body>
@@ -38,8 +39,8 @@
         </div>
         <div class="humberger__menu__cart">
             <ul>
-                <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
             </ul>
             <div class="header__cart__price">item: <span>$150.00</span></div>
         </div>
@@ -70,7 +71,7 @@
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-linkedin"></i></a>
-            <!-- <a href="#"><i class="fa fa-pinterest-p"></i></a> -->
+            <a href="#"><i class="fa fa-pinterest"></i></a>
         </div>
         <div class="humberger__menu__contact">
             <ul>
@@ -100,7 +101,7 @@
                                 <a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-twitter"></i></a>
                                 <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-pinterest-p"></i></a>
+                                <a href="#"><i class="fa fa-pinterest"></i></a>
                             </div>
                         
                             <div class="header__top__right__auth">
@@ -133,8 +134,8 @@
                 <div class="col-lg-3">
                     <div class="header__cart">
                         <ul>
-                            <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                            <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
                         </ul>
                         <div class="header__cart__price">item: <span>$150.00</span></div>
                     </div>
@@ -219,28 +220,28 @@
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
-                        <span class="icon_phone"></span>
+                        <span class="fa fa-phone"></span>
                         <h4>Phone</h4>
                         <p>+95 11.188.888</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
-                        <span class="icon_pin_alt"></span>
+                        <span class="fa fa-map-marker"></span>
                         <h4>Address</h4>
                         <p>60-49 DhamaSaydi Road Yangon</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
-                        <span class="icon_clock_alt"></span>
+                        <span class="fa fa-clock-o"></span>
                         <h4>Open time</h4>
                         <p>10:00 am to 23:00 pm</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
-                        <span class="icon_mail_alt"></span>
+                        <span class="fa fa-envelope-o"></span>
                         <h4>Email</h4>
                         <p>shop@citymart.com</p>
                     </div>
@@ -344,7 +345,7 @@
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <!-- <a href="#"><i class="fa fa-pinterest"></i></a> -->
+                            <a href="#"><i class="fa fa-pinterest"></i></a>
                         </div>
                     </div>
                 </div>

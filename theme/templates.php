@@ -52,8 +52,8 @@ if (isset($_SESSION['gcCart'])){
         </div>
         <div class="humberger__menu__cart">
             <ul>
-                <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
             </ul>
             <div class="header__cart__price">item: <span>$150.00</span></div>
         </div>
@@ -68,7 +68,7 @@ if (isset($_SESSION['gcCart'])){
             <a href="#"><i class="fa fa-facebook"></i></a>
             <a href="#"><i class="fa fa-twitter"></i></a>
             <a href="#"><i class="fa fa-linkedin"></i></a>
-            <!-- <a href="#"><i class="fa fa-pinterest-p"></i></a> -->
+            <a href="#"><i class="fa fa-pinterest"></i></a>
         </div>
         <div class="humberger__menu__contact">
             <ul>
@@ -98,7 +98,7 @@ if (isset($_SESSION['gcCart'])){
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
                             <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <!-- <a href="#"><i class="fa fa-pinterest-p"></i></a> -->
+                            <a href="#"><i class="fa fa-pinterest"></i></a>
                         </div>
 
                         <div class="header__top__right__auth">
@@ -129,8 +129,8 @@ if (isset($_SESSION['gcCart'])){
             <div class="col-lg-3">
                 <div class="header__cart">
                     <ul>
-                        <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                        <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                        <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                        <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
                     </ul>
                     <div class="header__cart__price">item: <span>$150.00</span></div>
                 </div>
